@@ -1,4 +1,5 @@
 #Faça um algoritmo para ler três números e se estes poderem formar um triângulo dizer se o triângulo é “EQUILÁTERO”, “ISÓSCELES” OU “ESCALENO”
+#                                                      --->CORRIGIR QUESTÃO!<---
 print("digite um número A:")
 a = float(input())
 print("digite outro número B:")
